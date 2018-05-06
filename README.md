@@ -20,6 +20,4 @@ open index.html in browser of your choice
 
 GitHub Pages
 ------------
-```
-Here will be the link to this project on the GitHub Pages
-```
+You can see the project on the GitHub Pages [HERE](https://peterkujda.github.io/homepage/)
